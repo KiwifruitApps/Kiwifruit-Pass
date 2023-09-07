@@ -11,6 +11,6 @@ You can currently only self-host Kiwifruit Pass, however, there will (hopefully)
 If you need help with this app, you can contact me on Twitter [@eatery1234](https://twitter.com/eatery1234).
 
 ## Support this Project
-Please check FUNDING.yml if you would like to support Kiwifruit Pass. You could also donate to my Ko-fi below. All tips are greatly appreciated.
+Please check FUNDING.yml if you would like to support Kiwifruit Pass. You could also donate to my ([@ethrythedev](https://github.com/ethrythedev)) Ko-fi below if you would like to. All tips are greatly appreciated.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I16IZT7)
